@@ -1,0 +1,26 @@
+
+
+  2022/10/07                       ROLLING PIZZA                   AHO          
+
+                                 INVENTORY REPORT                               
+
+
+     TRUCK           ITEM          NUM IN     PURCHASE     TOTAL INVEN          
+      ID             NAME          STOCK       PRICE          COST              
+     P100A     CHEESE PIZZA           90       $  2.99          $269.10         
+     P100A     PEPPERONI PIZZA         0       $  5.75          $  0.00         
+     ERROR     PRETZEL                75       $  1.25          $ 93.75         
+     P100A     SAUSAGE PIZZA          62       $  4.50          $279.00         
+     P100A     SUPREME PIZZA         105       $  6.45          $677.25         
+     P200G     CHEESE PIZZA           55       $  2.99          $164.45         
+     P200G     PEPPERONI PIZZA        98       $  5.75          $563.50         
+     P200G     PRETZEL               115       $  1.25          $143.75         
+     ERROR     SAUSAGE PIZZA          72       $  4.50          $324.00         
+     P200G     SUPREME PIZZA         101       $  6.45          $651.45         
+     P300H     CHEESE PIZZA          125       $  2.99          $373.75         
+     P300H     PEPPERONI PIZZA        35       $  5.75          $201.25         
+     ERROR     PRETZEL                 0       $  1.25          $  0.00         
+     P300H     SAUSAGE PIZZA          90       $  0.00          $  0.00         
+     P300H     SUPREME PIZZA          25       $  6.45          $161.25         
+
+                         TOTALS:    1048      $ 58.32       $3,902.50           
